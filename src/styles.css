@@ -81,6 +81,12 @@ body {
   letter-spacing: 1px;
 }
 
+.brand-mark img {
+  width: 28px;
+  height: 28px;
+  display: block;
+}
+
 .brand-title {
   font-family: "Fraunces", serif;
   font-size: 26px;

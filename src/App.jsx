@@ -286,7 +286,9 @@ export default function App() {
     <div className="app">
       <header className="topbar">
         <div className="brand">
-          <div className="brand-mark">K2</div>
+          <div className="brand-mark">
+            <img src="./favicon.svg" alt="Logo" />
+          </div>
           <div>
             <div className="brand-title">{dataset.label}</div>
             <div className="brand-sub">Trắc nghiệm Lý thuyết</div>
