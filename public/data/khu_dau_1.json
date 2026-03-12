@@ -12,6 +12,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -30,11 +31,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 917,
@@ -49,6 +51,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -67,11 +70,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:27.827Z",
-    "updatedAt": "2026-03-07T13:27:27.827Z",
-    "firstSeen": "2026-03-07T13:27:27.355Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 18
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 918,
@@ -86,6 +90,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -104,11 +109,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:49:05.025Z",
+    "updatedAt": "2026-03-12T13:49:05.025Z",
+    "firstSeen": "2026-03-12T13:49:05.230Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 13,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 919,
@@ -123,6 +129,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -141,11 +148,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 920,
@@ -160,6 +168,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -178,11 +187,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:40.125Z",
+    "updatedAt": "2026-03-12T13:48:40.125Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 921,
@@ -197,6 +207,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -215,11 +226,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.228Z",
-    "updatedAt": "2026-03-07T13:27:13.228Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 922,
@@ -234,6 +246,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -252,11 +265,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:43.232Z",
+    "updatedAt": "2026-03-12T13:48:43.232Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 923,
@@ -271,6 +285,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -289,11 +304,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 924,
@@ -308,6 +324,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -326,11 +343,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.749Z",
-    "updatedAt": "2026-03-07T13:27:04.749Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:49.432Z",
+    "updatedAt": "2026-03-12T13:48:49.432Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 925,
@@ -345,6 +363,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -363,11 +382,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:33.868Z",
+    "updatedAt": "2026-03-12T13:48:33.868Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 926,
@@ -382,6 +402,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -400,11 +421,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:27.656Z",
+    "updatedAt": "2026-03-12T13:48:27.656Z",
+    "firstSeen": "2026-03-12T13:48:27.857Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 824,
@@ -419,6 +441,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -437,11 +460,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.289Z",
-    "updatedAt": "2026-03-07T13:26:56.289Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 927,
@@ -456,6 +480,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -474,11 +499,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:21.554Z",
-    "updatedAt": "2026-03-07T13:27:21.554Z",
-    "firstSeen": "2026-03-07T13:27:21.083Z",
+    "createdAt": "2026-03-12T13:48:33.870Z",
+    "updatedAt": "2026-03-12T13:48:33.870Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 15
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 928,
@@ -493,6 +519,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -511,11 +538,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:44.518Z",
-    "updatedAt": "2026-03-07T13:27:44.518Z",
-    "firstSeen": "2026-03-07T13:27:44.053Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 26
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 929,
@@ -530,6 +558,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -548,11 +577,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:49:48.012Z",
+    "updatedAt": "2026-03-12T13:49:48.012Z",
+    "firstSeen": "2026-03-12T13:49:48.354Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 26,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 930,
@@ -567,6 +597,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -585,11 +616,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.329Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 931,
@@ -604,6 +636,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -622,11 +655,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.227Z",
-    "updatedAt": "2026-03-07T13:27:13.227Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:46.336Z",
+    "updatedAt": "2026-03-12T13:48:46.336Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 932,
@@ -641,6 +675,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -659,11 +694,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.571Z",
-    "updatedAt": "2026-03-07T13:27:02.571Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 933,
@@ -678,6 +714,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -696,11 +733,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.304Z",
-    "updatedAt": "2026-03-07T13:27:15.304Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:49.431Z",
+    "updatedAt": "2026-03-12T13:48:49.431Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 934,
@@ -715,6 +753,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -733,11 +772,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.921Z",
-    "updatedAt": "2026-03-07T13:27:08.921Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:49:25.450Z",
+    "updatedAt": "2026-03-12T13:49:25.450Z",
+    "firstSeen": "2026-03-12T13:49:25.706Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 19,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 935,
@@ -752,8 +792,11 @@
     ],
     "correctAnswer": 1,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746786362459.webp"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746786362459.webp"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -772,11 +815,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.303Z",
-    "updatedAt": "2026-03-07T13:27:15.303Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 936,
@@ -791,6 +835,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -809,11 +854,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.494Z",
-    "updatedAt": "2026-03-07T13:27:00.494Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:49:28.600Z",
+    "updatedAt": "2026-03-12T13:49:28.600Z",
+    "firstSeen": "2026-03-12T13:49:28.871Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 20,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 825,
@@ -828,6 +874,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -846,11 +893,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:49:11.665Z",
+    "updatedAt": "2026-03-12T13:49:11.665Z",
+    "firstSeen": "2026-03-12T13:49:12.654Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 15,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 937,
@@ -865,6 +913,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -883,11 +932,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.572Z",
-    "updatedAt": "2026-03-07T13:27:02.572Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:49:01.904Z",
+    "updatedAt": "2026-03-12T13:49:01.904Z",
+    "firstSeen": "2026-03-12T13:49:02.097Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 12,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 938,
@@ -902,6 +952,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -920,11 +971,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:49:11.665Z",
+    "updatedAt": "2026-03-12T13:49:11.665Z",
+    "firstSeen": "2026-03-12T13:49:12.654Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 15,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 939,
@@ -939,6 +991,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -957,11 +1010,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:48:49.430Z",
+    "updatedAt": "2026-03-12T13:48:49.430Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 940,
@@ -976,8 +1030,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746788130051.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746788130051.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -996,11 +1053,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 941,
@@ -1015,6 +1073,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1033,11 +1092,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:49.432Z",
+    "updatedAt": "2026-03-12T13:48:49.432Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 942,
@@ -1052,6 +1112,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1070,11 +1131,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.572Z",
-    "updatedAt": "2026-03-07T13:27:02.572Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 943,
@@ -1089,6 +1151,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1107,11 +1170,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:55.661Z",
+    "updatedAt": "2026-03-12T13:48:55.661Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 949,
@@ -1126,6 +1190,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1144,11 +1209,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 950,
@@ -1163,6 +1229,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1181,11 +1248,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.571Z",
-    "updatedAt": "2026-03-07T13:27:02.571Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 951,
@@ -1200,6 +1268,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1218,11 +1287,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 826,
@@ -1237,6 +1307,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1255,11 +1326,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 952,
@@ -1274,6 +1346,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1292,11 +1365,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 953,
@@ -1311,6 +1385,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1329,11 +1404,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:17.386Z",
-    "updatedAt": "2026-03-07T13:27:17.386Z",
-    "firstSeen": "2026-03-07T13:27:16.907Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 13
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 954,
@@ -1348,6 +1424,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1366,11 +1443,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:37.021Z",
+    "updatedAt": "2026-03-12T13:48:37.021Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 955,
@@ -1385,6 +1463,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1403,11 +1482,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:55.661Z",
+    "updatedAt": "2026-03-12T13:48:55.661Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 956,
@@ -1422,6 +1502,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1440,11 +1521,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:49:21.970Z",
+    "updatedAt": "2026-03-12T13:49:21.970Z",
+    "firstSeen": "2026-03-12T13:49:22.531Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 18,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 957,
@@ -1459,6 +1541,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1477,11 +1560,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:33.867Z",
+    "updatedAt": "2026-03-12T13:48:33.867Z",
+    "firstSeen": "2026-03-12T13:48:34.069Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 958,
@@ -1496,8 +1580,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747022862049.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747022862049.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -1516,11 +1603,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:58.801Z",
+    "updatedAt": "2026-03-12T13:48:58.801Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 959,
@@ -1535,6 +1623,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1553,11 +1642,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 960,
@@ -1572,6 +1662,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1590,11 +1681,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.831Z",
-    "updatedAt": "2026-03-07T13:27:06.831Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 961,
@@ -1609,6 +1701,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1627,11 +1720,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:52.567Z",
+    "updatedAt": "2026-03-12T13:48:52.567Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 827,
@@ -1646,6 +1740,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1664,11 +1759,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.306Z",
-    "updatedAt": "2026-03-07T13:27:15.306Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 962,
@@ -1683,6 +1779,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1701,11 +1798,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:43.231Z",
+    "updatedAt": "2026-03-12T13:48:43.231Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 963,
@@ -1720,6 +1818,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1738,11 +1837,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.923Z",
-    "updatedAt": "2026-03-07T13:27:08.923Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 964,
@@ -1757,6 +1857,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1775,11 +1876,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:29.908Z",
-    "updatedAt": "2026-03-07T13:27:29.908Z",
-    "firstSeen": "2026-03-07T13:27:29.433Z",
+    "createdAt": "2026-03-12T13:49:54.394Z",
+    "updatedAt": "2026-03-12T13:49:54.394Z",
+    "firstSeen": "2026-03-12T13:49:54.599Z",
     "sourceArena": 1,
-    "sourceExam": 19
+    "sourceExam": 28,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 965,
@@ -1794,6 +1896,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1812,11 +1915,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:34.090Z",
-    "updatedAt": "2026-03-07T13:27:34.090Z",
-    "firstSeen": "2026-03-07T13:27:33.617Z",
+    "createdAt": "2026-03-12T13:48:33.870Z",
+    "updatedAt": "2026-03-12T13:48:33.870Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 21
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 966,
@@ -1831,6 +1935,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1849,11 +1954,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:58.802Z",
+    "updatedAt": "2026-03-12T13:48:58.802Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 967,
@@ -1868,6 +1974,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1886,11 +1993,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:29.909Z",
-    "updatedAt": "2026-03-07T13:27:29.909Z",
-    "firstSeen": "2026-03-07T13:27:29.433Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 19
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 968,
@@ -1905,8 +2013,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747024530683.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747024530683.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -1925,11 +2036,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:50:38.758Z",
+    "updatedAt": "2026-03-12T13:50:38.758Z",
+    "firstSeen": "2026-03-12T13:50:39.031Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 42,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 970,
@@ -1944,6 +2056,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1962,11 +2075,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:49:41.643Z",
+    "updatedAt": "2026-03-12T13:49:41.643Z",
+    "firstSeen": "2026-03-12T13:49:41.854Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 24,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 971,
@@ -1981,6 +2095,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -1999,11 +2114,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:40.125Z",
+    "updatedAt": "2026-03-12T13:48:40.125Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 972,
@@ -2018,6 +2134,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2036,11 +2153,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 828,
@@ -2055,8 +2173,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5kl3qyh001kf/1746693810233.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5kl3qyh001kf/1746693810233.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -2075,11 +2196,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:49:31.822Z",
+    "updatedAt": "2026-03-12T13:49:31.822Z",
+    "firstSeen": "2026-03-12T13:49:32.364Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 21,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 973,
@@ -2094,8 +2216,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747033506873.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747033506873.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -2114,11 +2239,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:49:31.820Z",
+    "updatedAt": "2026-03-12T13:49:31.820Z",
+    "firstSeen": "2026-03-12T13:49:32.364Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 21,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 974,
@@ -2133,6 +2259,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2151,11 +2278,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:29.908Z",
-    "updatedAt": "2026-03-07T13:27:29.908Z",
-    "firstSeen": "2026-03-07T13:27:29.433Z",
+    "createdAt": "2026-03-12T13:49:08.201Z",
+    "updatedAt": "2026-03-12T13:49:08.201Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 19
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 975,
@@ -2170,6 +2298,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2188,11 +2317,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:50:16.635Z",
+    "updatedAt": "2026-03-12T13:50:16.636Z",
+    "firstSeen": "2026-03-12T13:50:16.850Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 35,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 976,
@@ -2207,8 +2337,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747034087464.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1747034087464.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -2227,11 +2360,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:37.023Z",
+    "updatedAt": "2026-03-12T13:48:37.023Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 977,
@@ -2246,6 +2380,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2264,11 +2399,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:33.870Z",
+    "updatedAt": "2026-03-12T13:48:33.870Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 978,
@@ -2283,6 +2419,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2301,11 +2438,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 979,
@@ -2320,6 +2458,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2338,11 +2477,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.228Z",
-    "updatedAt": "2026-03-07T13:27:13.228Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:33.868Z",
+    "updatedAt": "2026-03-12T13:48:33.868Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 980,
@@ -2357,6 +2497,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2375,11 +2516,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:58.798Z",
+    "updatedAt": "2026-03-12T13:48:58.798Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 981,
@@ -2394,6 +2536,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2412,11 +2555,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:46.595Z",
-    "updatedAt": "2026-03-07T13:27:46.595Z",
-    "firstSeen": "2026-03-07T13:27:46.127Z",
+    "createdAt": "2026-03-12T13:48:55.660Z",
+    "updatedAt": "2026-03-12T13:48:55.660Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 27
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 982,
@@ -2431,6 +2575,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2449,11 +2594,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.289Z",
-    "updatedAt": "2026-03-07T13:26:56.289Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:55.660Z",
+    "updatedAt": "2026-03-12T13:48:55.660Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 829,
@@ -2468,6 +2614,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2486,11 +2633,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:27.825Z",
-    "updatedAt": "2026-03-07T13:27:27.825Z",
-    "firstSeen": "2026-03-07T13:27:27.355Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 18
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 983,
@@ -2505,6 +2653,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2523,11 +2672,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:46.336Z",
+    "updatedAt": "2026-03-12T13:48:46.336Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 984,
@@ -2542,6 +2692,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2560,11 +2711,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:40.125Z",
+    "updatedAt": "2026-03-12T13:48:40.125Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 985,
@@ -2579,6 +2731,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2597,11 +2750,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:40.318Z",
-    "updatedAt": "2026-03-07T13:27:40.318Z",
-    "firstSeen": "2026-03-07T13:27:39.839Z",
+    "createdAt": "2026-03-12T13:49:08.199Z",
+    "updatedAt": "2026-03-12T13:49:08.199Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 24
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 986,
@@ -2616,6 +2770,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2634,11 +2789,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 987,
@@ -2653,6 +2809,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2671,11 +2828,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 988,
@@ -2690,6 +2848,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2708,11 +2867,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:17.385Z",
-    "updatedAt": "2026-03-07T13:27:17.385Z",
-    "firstSeen": "2026-03-07T13:27:16.907Z",
+    "createdAt": "2026-03-12T13:49:35.328Z",
+    "updatedAt": "2026-03-12T13:49:35.328Z",
+    "firstSeen": "2026-03-12T13:49:35.539Z",
     "sourceArena": 1,
-    "sourceExam": 13
+    "sourceExam": 22,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 989,
@@ -2727,6 +2887,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2745,11 +2906,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:23.638Z",
-    "updatedAt": "2026-03-07T13:27:23.638Z",
-    "firstSeen": "2026-03-07T13:27:23.182Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 16
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 830,
@@ -2764,6 +2926,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2782,11 +2945,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:19.462Z",
-    "updatedAt": "2026-03-07T13:27:19.462Z",
-    "firstSeen": "2026-03-07T13:27:18.988Z",
+    "createdAt": "2026-03-12T13:49:05.024Z",
+    "updatedAt": "2026-03-12T13:49:05.024Z",
+    "firstSeen": "2026-03-12T13:49:05.230Z",
     "sourceArena": 1,
-    "sourceExam": 14
+    "sourceExam": 13,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 993,
@@ -2801,6 +2965,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2819,11 +2984,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:17.386Z",
-    "updatedAt": "2026-03-07T13:27:17.386Z",
-    "firstSeen": "2026-03-07T13:27:16.907Z",
+    "createdAt": "2026-03-12T13:48:52.567Z",
+    "updatedAt": "2026-03-12T13:48:52.567Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 13
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 994,
@@ -2838,6 +3004,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2856,11 +3023,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:25.741Z",
-    "updatedAt": "2026-03-07T13:27:25.741Z",
-    "firstSeen": "2026-03-07T13:27:25.265Z",
+    "createdAt": "2026-03-12T13:49:15.593Z",
+    "updatedAt": "2026-03-12T13:49:15.593Z",
+    "firstSeen": "2026-03-12T13:49:15.863Z",
     "sourceArena": 1,
-    "sourceExam": 17
+    "sourceExam": 16,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 995,
@@ -2875,6 +3043,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2893,11 +3062,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.329Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 996,
@@ -2912,6 +3082,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2930,11 +3101,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:49.432Z",
+    "updatedAt": "2026-03-12T13:48:49.432Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 998,
@@ -2949,6 +3121,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -2967,11 +3140,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.749Z",
-    "updatedAt": "2026-03-07T13:27:04.749Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:46.334Z",
+    "updatedAt": "2026-03-12T13:48:46.334Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 999,
@@ -2986,6 +3160,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3004,11 +3179,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.751Z",
-    "updatedAt": "2026-03-07T13:27:04.751Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1000,
@@ -3023,6 +3199,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3041,11 +3218,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.831Z",
-    "updatedAt": "2026-03-07T13:27:06.831Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:50:07.014Z",
+    "updatedAt": "2026-03-12T13:50:07.014Z",
+    "firstSeen": "2026-03-12T13:50:07.227Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 32,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1001,
@@ -3060,6 +3238,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3078,11 +3257,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:49:21.971Z",
+    "updatedAt": "2026-03-12T13:49:21.971Z",
+    "firstSeen": "2026-03-12T13:49:22.531Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 18,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1002,
@@ -3097,6 +3277,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3115,11 +3296,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:49:08.198Z",
+    "updatedAt": "2026-03-12T13:49:08.198Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 831,
@@ -3134,6 +3316,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3152,11 +3335,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:19.462Z",
-    "updatedAt": "2026-03-07T13:27:19.462Z",
-    "firstSeen": "2026-03-07T13:27:18.988Z",
+    "createdAt": "2026-03-12T13:48:46.336Z",
+    "updatedAt": "2026-03-12T13:48:46.336Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 14
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1003,
@@ -3171,6 +3355,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3189,11 +3374,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:23.638Z",
-    "updatedAt": "2026-03-07T13:27:23.638Z",
-    "firstSeen": "2026-03-07T13:27:23.182Z",
+    "createdAt": "2026-03-12T13:48:49.431Z",
+    "updatedAt": "2026-03-12T13:48:49.431Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 16
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1004,
@@ -3208,6 +3394,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3226,11 +3413,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1005,
@@ -3245,6 +3433,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3263,11 +3452,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.923Z",
-    "updatedAt": "2026-03-07T13:27:08.923Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:49:08.200Z",
+    "updatedAt": "2026-03-12T13:49:08.200Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1006,
@@ -3282,8 +3472,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5rtpl4600if2/1747131529254.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5rtpl4600if2/1747131529254.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -3302,11 +3495,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.305Z",
-    "updatedAt": "2026-03-07T13:27:15.305Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1008,
@@ -3321,6 +3515,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3339,11 +3534,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:17.386Z",
-    "updatedAt": "2026-03-07T13:27:17.386Z",
-    "firstSeen": "2026-03-07T13:27:16.907Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 13
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1009,
@@ -3358,6 +3554,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3376,11 +3573,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1010,
@@ -3395,6 +3593,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3413,11 +3612,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:49:57.510Z",
+    "updatedAt": "2026-03-12T13:49:57.510Z",
+    "firstSeen": "2026-03-12T13:49:57.817Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 29,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1011,
@@ -3432,6 +3632,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3450,11 +3651,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:55.661Z",
+    "updatedAt": "2026-03-12T13:48:55.661Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1012,
@@ -3469,6 +3671,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3487,11 +3690,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.571Z",
-    "updatedAt": "2026-03-07T13:27:02.571Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1013,
@@ -3506,6 +3710,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3524,11 +3729,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:17.385Z",
-    "updatedAt": "2026-03-07T13:27:17.385Z",
-    "firstSeen": "2026-03-07T13:27:16.907Z",
+    "createdAt": "2026-03-12T13:48:52.568Z",
+    "updatedAt": "2026-03-12T13:48:52.568Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 13
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 832,
@@ -3543,6 +3749,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3561,11 +3768,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:31.997Z",
-    "updatedAt": "2026-03-07T13:27:31.997Z",
-    "firstSeen": "2026-03-07T13:27:31.531Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 20
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1014,
@@ -3580,6 +3788,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3598,11 +3807,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:48:58.802Z",
+    "updatedAt": "2026-03-12T13:48:58.802Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1015,
@@ -3617,6 +3827,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3635,11 +3846,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:49:01.905Z",
+    "updatedAt": "2026-03-12T13:49:01.905Z",
+    "firstSeen": "2026-03-12T13:49:02.097Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 12,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1016,
@@ -3654,6 +3866,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3672,11 +3885,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1017,
@@ -3691,6 +3905,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3709,11 +3924,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1018,
@@ -3728,6 +3944,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3746,11 +3963,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1019,
@@ -3765,6 +3983,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3783,11 +4002,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:46.335Z",
+    "updatedAt": "2026-03-12T13:48:46.335Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1020,
@@ -3802,6 +4022,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3820,11 +4041,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:58.802Z",
+    "updatedAt": "2026-03-12T13:48:58.802Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1021,
@@ -3839,6 +4061,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3857,11 +4080,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:52.567Z",
+    "updatedAt": "2026-03-12T13:48:52.567Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1022,
@@ -3876,6 +4100,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3894,11 +4119,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1023,
@@ -3913,6 +4139,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3931,11 +4158,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:46.335Z",
+    "updatedAt": "2026-03-12T13:48:46.335Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 833,
@@ -3950,6 +4178,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -3968,11 +4197,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1024,
@@ -3987,6 +4217,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4005,11 +4236,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:48.691Z",
-    "updatedAt": "2026-03-07T13:27:48.691Z",
-    "firstSeen": "2026-03-07T13:27:48.230Z",
+    "createdAt": "2026-03-12T13:48:43.232Z",
+    "updatedAt": "2026-03-12T13:48:43.232Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 28
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1025,
@@ -4024,6 +4256,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4042,11 +4275,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:29.909Z",
-    "updatedAt": "2026-03-07T13:27:29.909Z",
-    "firstSeen": "2026-03-07T13:27:29.433Z",
+    "createdAt": "2026-03-12T13:49:35.326Z",
+    "updatedAt": "2026-03-12T13:49:35.326Z",
+    "firstSeen": "2026-03-12T13:49:35.539Z",
     "sourceArena": 1,
-    "sourceExam": 19
+    "sourceExam": 22,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1026,
@@ -4061,6 +4295,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4079,11 +4314,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:46.596Z",
-    "updatedAt": "2026-03-07T13:27:46.596Z",
-    "firstSeen": "2026-03-07T13:27:46.127Z",
+    "createdAt": "2026-03-12T13:48:27.656Z",
+    "updatedAt": "2026-03-12T13:48:27.656Z",
+    "firstSeen": "2026-03-12T13:48:27.857Z",
     "sourceArena": 1,
-    "sourceExam": 27
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1027,
@@ -4098,6 +4334,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4116,11 +4353,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:37.023Z",
+    "updatedAt": "2026-03-12T13:48:37.023Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1028,
@@ -4135,8 +4373,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/69ztavp0210l/1748230451929.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/69ztavp0210l/1748230451929.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4155,11 +4396,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:43.231Z",
+    "updatedAt": "2026-03-12T13:48:43.231Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1029,
@@ -4174,6 +4416,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4192,11 +4435,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:37.023Z",
+    "updatedAt": "2026-03-12T13:48:37.023Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1030,
@@ -4211,6 +4455,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4229,11 +4474,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.752Z",
-    "updatedAt": "2026-03-07T13:27:04.752Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1031,
@@ -4248,6 +4494,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4266,11 +4513,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.289Z",
-    "updatedAt": "2026-03-07T13:26:56.289Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1032,
@@ -4285,6 +4533,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4303,11 +4552,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:27.825Z",
-    "updatedAt": "2026-03-07T13:27:27.825Z",
-    "firstSeen": "2026-03-07T13:27:27.355Z",
+    "createdAt": "2026-03-12T13:49:54.396Z",
+    "updatedAt": "2026-03-12T13:49:54.396Z",
+    "firstSeen": "2026-03-12T13:49:54.599Z",
     "sourceArena": 1,
-    "sourceExam": 18
+    "sourceExam": 28,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1033,
@@ -4322,6 +4572,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4340,11 +4591,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:42.397Z",
-    "updatedAt": "2026-03-07T13:27:42.397Z",
-    "firstSeen": "2026-03-07T13:27:41.933Z",
+    "createdAt": "2026-03-12T13:49:08.200Z",
+    "updatedAt": "2026-03-12T13:49:08.200Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 25
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 834,
@@ -4359,6 +4611,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4377,11 +4630,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1034,
@@ -4396,6 +4650,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4414,11 +4669,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.007Z",
-    "updatedAt": "2026-03-07T13:27:11.007Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:49:48.012Z",
+    "updatedAt": "2026-03-12T13:49:48.012Z",
+    "firstSeen": "2026-03-12T13:49:48.354Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 26,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1035,
@@ -4433,8 +4689,11 @@
     ],
     "correctAnswer": 2,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748232459247.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748232459247.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4453,11 +4712,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:52.566Z",
+    "updatedAt": "2026-03-12T13:48:52.566Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1036,
@@ -4472,6 +4732,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4490,11 +4751,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.572Z",
-    "updatedAt": "2026-03-07T13:27:02.572Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:49:31.822Z",
+    "updatedAt": "2026-03-12T13:49:31.822Z",
+    "firstSeen": "2026-03-12T13:49:32.364Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 21,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1037,
@@ -4509,8 +4771,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748233136789.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748233136789.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4529,11 +4794,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:55.661Z",
+    "updatedAt": "2026-03-12T13:48:55.661Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1038,
@@ -4548,8 +4814,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a1uqkc0204y/1748233797356.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a1uqkc0204y/1748233797356.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4568,11 +4837,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:58.800Z",
+    "updatedAt": "2026-03-12T13:48:58.800Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1039,
@@ -4587,8 +4857,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748234003288.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748234003288.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4607,11 +4880,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.304Z",
-    "updatedAt": "2026-03-07T13:27:15.304Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:40.125Z",
+    "updatedAt": "2026-03-12T13:48:40.125Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1040,
@@ -4626,6 +4900,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4644,11 +4919,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:21.553Z",
-    "updatedAt": "2026-03-07T13:27:21.553Z",
-    "firstSeen": "2026-03-07T13:27:21.083Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 15
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1041,
@@ -4663,6 +4939,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4681,11 +4958,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:37.021Z",
+    "updatedAt": "2026-03-12T13:48:37.021Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1042,
@@ -4700,8 +4978,11 @@
     ],
     "correctAnswer": 1,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748235163574.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748235163574.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4720,11 +5001,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:27.825Z",
-    "updatedAt": "2026-03-07T13:27:27.825Z",
-    "firstSeen": "2026-03-07T13:27:27.355Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 18
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1043,
@@ -4739,8 +5021,11 @@
     ],
     "correctAnswer": 1,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748247405199.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/6a16c4v01zqk/1748247405199.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -4759,11 +5044,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.572Z",
-    "updatedAt": "2026-03-07T13:27:02.572Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 835,
@@ -4778,6 +5064,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4796,11 +5083,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.227Z",
-    "updatedAt": "2026-03-07T13:27:13.227Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:49:18.807Z",
+    "updatedAt": "2026-03-12T13:49:18.807Z",
+    "firstSeen": "2026-03-12T13:49:19.035Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 17,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1044,
@@ -4815,6 +5103,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4833,11 +5122,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.492Z",
-    "updatedAt": "2026-03-07T13:27:00.492Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:49:05.025Z",
+    "updatedAt": "2026-03-12T13:49:05.025Z",
+    "firstSeen": "2026-03-12T13:49:05.230Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 13,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1045,
@@ -4852,6 +5142,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4870,11 +5161,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1046,
@@ -4889,6 +5181,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4907,11 +5200,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.305Z",
-    "updatedAt": "2026-03-07T13:27:15.305Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:43.232Z",
+    "updatedAt": "2026-03-12T13:48:43.232Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1047,
@@ -4926,6 +5220,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4944,11 +5239,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:46.335Z",
+    "updatedAt": "2026-03-12T13:48:46.335Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1048,
@@ -4963,6 +5259,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -4981,11 +5278,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:49:18.807Z",
+    "updatedAt": "2026-03-12T13:49:18.807Z",
+    "firstSeen": "2026-03-12T13:49:19.035Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 17,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1049,
@@ -5000,6 +5298,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5018,11 +5317,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:23.637Z",
-    "updatedAt": "2026-03-07T13:27:23.637Z",
-    "firstSeen": "2026-03-07T13:27:23.182Z",
+    "createdAt": "2026-03-12T13:48:40.125Z",
+    "updatedAt": "2026-03-12T13:48:40.125Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 16
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1050,
@@ -5037,6 +5337,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5055,11 +5356,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:37.021Z",
+    "updatedAt": "2026-03-12T13:48:37.021Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1051,
@@ -5074,6 +5376,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5092,11 +5395,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.829Z",
-    "updatedAt": "2026-03-07T13:27:06.829Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:58.796Z",
+    "updatedAt": "2026-03-12T13:48:58.796Z",
+    "firstSeen": "2026-03-12T13:48:58.998Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 11,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1052,
@@ -5111,6 +5415,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5129,11 +5434,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1053,
@@ -5148,6 +5454,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5166,11 +5473,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:42.398Z",
-    "updatedAt": "2026-03-07T13:27:42.398Z",
-    "firstSeen": "2026-03-07T13:27:41.933Z",
+    "createdAt": "2026-03-12T13:48:33.870Z",
+    "updatedAt": "2026-03-12T13:48:33.870Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 25
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 836,
@@ -5185,6 +5493,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5203,11 +5512,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.752Z",
-    "updatedAt": "2026-03-07T13:27:04.752Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:49.430Z",
+    "updatedAt": "2026-03-12T13:48:49.430Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1054,
@@ -5222,6 +5532,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5240,11 +5551,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:49:31.821Z",
+    "updatedAt": "2026-03-12T13:49:31.821Z",
+    "firstSeen": "2026-03-12T13:49:32.364Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 21,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1055,
@@ -5259,6 +5571,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5277,11 +5590,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.571Z",
-    "updatedAt": "2026-03-07T13:27:02.571Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1056,
@@ -5296,6 +5610,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5314,11 +5629,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:19.462Z",
-    "updatedAt": "2026-03-07T13:27:19.462Z",
-    "firstSeen": "2026-03-07T13:27:18.988Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 14
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1057,
@@ -5333,6 +5649,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5351,11 +5668,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.306Z",
-    "updatedAt": "2026-03-07T13:27:15.306Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1058,
@@ -5370,6 +5688,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5388,11 +5707,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.227Z",
-    "updatedAt": "2026-03-07T13:27:13.227Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:30.753Z",
+    "updatedAt": "2026-03-12T13:48:30.753Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1059,
@@ -5407,6 +5727,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5425,11 +5746,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.227Z",
-    "updatedAt": "2026-03-07T13:27:13.227Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1060,
@@ -5444,6 +5766,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5462,11 +5785,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1061,
@@ -5481,6 +5805,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5499,11 +5824,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:33.870Z",
+    "updatedAt": "2026-03-12T13:48:33.870Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1062,
@@ -5518,6 +5844,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5536,11 +5863,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:23.637Z",
-    "updatedAt": "2026-03-07T13:27:23.637Z",
-    "firstSeen": "2026-03-07T13:27:23.182Z",
+    "createdAt": "2026-03-12T13:48:37.021Z",
+    "updatedAt": "2026-03-12T13:48:37.021Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 16
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1063,
@@ -5555,6 +5883,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5573,11 +5902,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.306Z",
-    "updatedAt": "2026-03-07T13:27:15.306Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:49:01.904Z",
+    "updatedAt": "2026-03-12T13:49:01.904Z",
+    "firstSeen": "2026-03-12T13:49:02.097Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 12,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 837,
@@ -5592,6 +5922,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5610,11 +5941,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.831Z",
-    "updatedAt": "2026-03-07T13:27:06.831Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 1064,
@@ -5629,6 +5961,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5647,11 +5980,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:48:49.432Z",
+    "updatedAt": "2026-03-12T13:48:49.432Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 838,
@@ -5666,6 +6000,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5684,11 +6019,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.166Z",
-    "updatedAt": "2026-03-07T13:26:54.166Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:43.232Z",
+    "updatedAt": "2026-03-12T13:48:43.232Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 839,
@@ -5703,6 +6039,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5721,11 +6058,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 840,
@@ -5740,8 +6078,11 @@
     ],
     "correctAnswer": 1,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5kmj49x002ah/1746696206949.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5kmj49x002ah/1746696206949.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -5760,11 +6101,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:49:01.904Z",
+    "updatedAt": "2026-03-12T13:49:01.904Z",
+    "firstSeen": "2026-03-12T13:49:02.097Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 12,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 841,
@@ -5779,6 +6121,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5797,11 +6140,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.857Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 842,
@@ -5816,6 +6160,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5834,11 +6179,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.075Z",
-    "updatedAt": "2026-03-07T13:26:52.075Z",
-    "firstSeen": "2026-03-07T13:26:51.608Z",
+    "createdAt": "2026-03-12T13:48:46.336Z",
+    "updatedAt": "2026-03-12T13:48:46.336Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 843,
@@ -5853,6 +6199,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5871,11 +6218,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.492Z",
-    "updatedAt": "2026-03-07T13:27:00.492Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:37.023Z",
+    "updatedAt": "2026-03-12T13:48:37.023Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 844,
@@ -5890,6 +6238,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5908,11 +6257,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:43.232Z",
+    "updatedAt": "2026-03-12T13:48:43.232Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 845,
@@ -5927,6 +6277,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5945,11 +6296,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:46.335Z",
+    "updatedAt": "2026-03-12T13:48:46.335Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 846,
@@ -5964,6 +6316,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -5982,11 +6335,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.921Z",
-    "updatedAt": "2026-03-07T13:27:08.921Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 847,
@@ -6001,6 +6355,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6019,11 +6374,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:40.124Z",
+    "updatedAt": "2026-03-12T13:48:40.124Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 848,
@@ -6038,6 +6394,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6056,11 +6413,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:25.740Z",
-    "updatedAt": "2026-03-07T13:27:25.740Z",
-    "firstSeen": "2026-03-07T13:27:25.265Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 17
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 849,
@@ -6075,6 +6433,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6093,11 +6452,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.494Z",
-    "updatedAt": "2026-03-07T13:27:00.494Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:49:44.764Z",
+    "updatedAt": "2026-03-12T13:49:44.764Z",
+    "firstSeen": "2026-03-12T13:49:45.109Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 25,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 850,
@@ -6112,8 +6472,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5knfj6t002dj/1746697719269.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5knfj6t002dj/1746697719269.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -6132,11 +6495,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.572Z",
-    "updatedAt": "2026-03-07T13:27:02.572Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:46.335Z",
+    "updatedAt": "2026-03-12T13:48:46.335Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 851,
@@ -6151,6 +6515,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6169,11 +6534,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 852,
@@ -6188,6 +6554,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6206,11 +6573,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:49:05.027Z",
+    "updatedAt": "2026-03-12T13:49:05.027Z",
+    "firstSeen": "2026-03-12T13:49:05.230Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 13,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 853,
@@ -6225,6 +6593,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6243,11 +6612,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:23.637Z",
-    "updatedAt": "2026-03-07T13:27:23.637Z",
-    "firstSeen": "2026-03-07T13:27:23.182Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 16
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 854,
@@ -6262,6 +6632,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6280,11 +6651,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:37.022Z",
+    "updatedAt": "2026-03-12T13:48:37.022Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 855,
@@ -6299,8 +6671,11 @@
     ],
     "correctAnswer": 1,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5ko0l0v002bj/1746698701423.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5ko0l0v002bj/1746698701423.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -6319,11 +6694,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 856,
@@ -6338,8 +6714,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5ko2yrq0028x/1746698812550.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5ko2yrq0028x/1746698812550.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -6358,11 +6737,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.857Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 857,
@@ -6377,8 +6757,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5ko8i7s001y5/1746699071032.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5ko8i7s001y5/1746699071032.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -6397,11 +6780,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:49:05.025Z",
+    "updatedAt": "2026-03-12T13:49:05.025Z",
+    "firstSeen": "2026-03-12T13:49:05.230Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 13,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 858,
@@ -6416,8 +6800,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5konzzx002c9/1746699793917.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5konzzx002c9/1746699793917.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -6436,11 +6823,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:42.397Z",
-    "updatedAt": "2026-03-07T13:27:42.397Z",
-    "firstSeen": "2026-03-07T13:27:41.933Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 25
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 859,
@@ -6455,6 +6843,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6473,11 +6862,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:50:03.871Z",
+    "updatedAt": "2026-03-12T13:50:03.871Z",
+    "firstSeen": "2026-03-12T13:50:04.091Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 31,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 860,
@@ -6492,6 +6882,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6510,11 +6901,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.166Z",
-    "updatedAt": "2026-03-07T13:26:54.166Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:49:11.664Z",
+    "updatedAt": "2026-03-12T13:49:11.664Z",
+    "firstSeen": "2026-03-12T13:49:12.654Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 15,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 861,
@@ -6529,6 +6921,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6547,11 +6940,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:31.998Z",
-    "updatedAt": "2026-03-07T13:27:31.998Z",
-    "firstSeen": "2026-03-07T13:27:31.531Z",
+    "createdAt": "2026-03-12T13:48:33.868Z",
+    "updatedAt": "2026-03-12T13:48:33.868Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 20
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 862,
@@ -6566,6 +6960,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6584,11 +6979,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.922Z",
-    "updatedAt": "2026-03-07T13:27:08.922Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:43.231Z",
+    "updatedAt": "2026-03-12T13:48:43.231Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 818,
@@ -6603,6 +6999,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6621,11 +7018,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 863,
@@ -6640,6 +7038,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6658,11 +7057,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 864,
@@ -6677,6 +7077,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6695,11 +7096,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:52.566Z",
+    "updatedAt": "2026-03-12T13:48:52.566Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 865,
@@ -6714,6 +7116,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6732,11 +7135,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:55.660Z",
+    "updatedAt": "2026-03-12T13:48:55.660Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 866,
@@ -6751,6 +7155,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6769,11 +7174,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:43.230Z",
+    "updatedAt": "2026-03-12T13:48:43.230Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 867,
@@ -6788,6 +7194,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6806,11 +7213,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:49:35.327Z",
+    "updatedAt": "2026-03-12T13:49:35.327Z",
+    "firstSeen": "2026-03-12T13:49:35.539Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 22,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 868,
@@ -6825,6 +7233,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6843,11 +7252,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:30.754Z",
+    "updatedAt": "2026-03-12T13:48:30.754Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 869,
@@ -6862,6 +7272,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6880,11 +7291,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:49:08.199Z",
+    "updatedAt": "2026-03-12T13:49:08.199Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 870,
@@ -6899,8 +7311,11 @@
     ],
     "correctAnswer": 1,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5lqbedg005pv/1746763031428.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5lqbedg005pv/1746763031428.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -6919,11 +7334,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:49:38.473Z",
+    "updatedAt": "2026-03-12T13:49:38.473Z",
+    "firstSeen": "2026-03-12T13:49:38.728Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 23,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 948,
@@ -6938,6 +7354,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6956,11 +7373,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 871,
@@ -6975,6 +7393,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -6993,11 +7412,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:21.553Z",
-    "updatedAt": "2026-03-07T13:27:21.553Z",
-    "firstSeen": "2026-03-07T13:27:21.083Z",
+    "createdAt": "2026-03-12T13:49:35.327Z",
+    "updatedAt": "2026-03-12T13:49:35.327Z",
+    "firstSeen": "2026-03-12T13:49:35.539Z",
     "sourceArena": 1,
-    "sourceExam": 15
+    "sourceExam": 22,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 819,
@@ -7012,6 +7432,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7030,11 +7451,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:23.638Z",
-    "updatedAt": "2026-03-07T13:27:23.638Z",
-    "firstSeen": "2026-03-07T13:27:23.182Z",
+    "createdAt": "2026-03-12T13:48:49.430Z",
+    "updatedAt": "2026-03-12T13:48:49.430Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 16
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 872,
@@ -7049,6 +7471,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7067,11 +7490,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:46.336Z",
+    "updatedAt": "2026-03-12T13:48:46.336Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 873,
@@ -7086,6 +7510,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7104,11 +7529,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.572Z",
-    "updatedAt": "2026-03-07T13:27:02.572Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 874,
@@ -7123,6 +7549,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7141,11 +7568,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.857Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 875,
@@ -7160,6 +7588,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7178,11 +7607,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.288Z",
-    "updatedAt": "2026-03-07T13:26:56.288Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:49:05.024Z",
+    "updatedAt": "2026-03-12T13:49:05.024Z",
+    "firstSeen": "2026-03-12T13:49:05.230Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 13,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 876,
@@ -7197,6 +7627,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7215,11 +7646,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:17.385Z",
-    "updatedAt": "2026-03-07T13:27:17.385Z",
-    "firstSeen": "2026-03-07T13:27:16.907Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 13
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 877,
@@ -7234,6 +7666,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7252,11 +7685,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.167Z",
-    "updatedAt": "2026-03-07T13:26:54.167Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:49:11.663Z",
+    "updatedAt": "2026-03-12T13:49:11.663Z",
+    "firstSeen": "2026-03-12T13:49:12.654Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 15,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 878,
@@ -7271,6 +7705,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7289,11 +7724,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.306Z",
-    "updatedAt": "2026-03-07T13:27:15.306Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:46.335Z",
+    "updatedAt": "2026-03-12T13:48:46.335Z",
+    "firstSeen": "2026-03-12T13:48:46.536Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 7,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 879,
@@ -7308,6 +7744,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7326,11 +7763,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.007Z",
-    "updatedAt": "2026-03-07T13:27:11.007Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:48:40.125Z",
+    "updatedAt": "2026-03-12T13:48:40.125Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 880,
@@ -7345,6 +7783,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7363,11 +7802,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:49:08.199Z",
+    "updatedAt": "2026-03-12T13:49:08.199Z",
+    "firstSeen": "2026-03-12T13:49:08.628Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 14,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 881,
@@ -7382,6 +7822,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7400,11 +7841,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:52.566Z",
+    "updatedAt": "2026-03-12T13:48:52.566Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 820,
@@ -7419,6 +7861,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7437,11 +7880,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:37.022Z",
+    "updatedAt": "2026-03-12T13:48:37.022Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 882,
@@ -7456,6 +7900,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7474,11 +7919,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:52.568Z",
+    "updatedAt": "2026-03-12T13:48:52.568Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 883,
@@ -7493,6 +7939,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7511,11 +7958,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:37.022Z",
+    "updatedAt": "2026-03-12T13:48:37.022Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 884,
@@ -7530,6 +7978,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7548,11 +7997,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 885,
@@ -7567,6 +8017,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7585,11 +8036,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.923Z",
-    "updatedAt": "2026-03-07T13:27:08.923Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:48:49.431Z",
+    "updatedAt": "2026-03-12T13:48:49.431Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 886,
@@ -7604,6 +8056,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7622,11 +8075,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:15.304Z",
-    "updatedAt": "2026-03-07T13:27:15.304Z",
-    "firstSeen": "2026-03-07T13:27:14.839Z",
+    "createdAt": "2026-03-12T13:48:49.432Z",
+    "updatedAt": "2026-03-12T13:48:49.432Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 12
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 887,
@@ -7641,6 +8095,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7659,11 +8114,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:48:37.022Z",
+    "updatedAt": "2026-03-12T13:48:37.022Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 888,
@@ -7678,6 +8134,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7696,11 +8153,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:21.554Z",
-    "updatedAt": "2026-03-07T13:27:21.554Z",
-    "firstSeen": "2026-03-07T13:27:21.083Z",
+    "createdAt": "2026-03-12T13:48:27.656Z",
+    "updatedAt": "2026-03-12T13:48:27.656Z",
+    "firstSeen": "2026-03-12T13:48:27.857Z",
     "sourceArena": 1,
-    "sourceExam": 15
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 889,
@@ -7715,6 +8173,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7733,11 +8192,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:27.826Z",
-    "updatedAt": "2026-03-07T13:27:27.826Z",
-    "firstSeen": "2026-03-07T13:27:27.355Z",
+    "createdAt": "2026-03-12T13:48:27.655Z",
+    "updatedAt": "2026-03-12T13:48:27.655Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 18
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 890,
@@ -7752,6 +8212,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7770,11 +8231,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:08.921Z",
-    "updatedAt": "2026-03-07T13:27:08.921Z",
-    "firstSeen": "2026-03-07T13:27:08.450Z",
+    "createdAt": "2026-03-12T13:49:18.807Z",
+    "updatedAt": "2026-03-12T13:49:18.807Z",
+    "firstSeen": "2026-03-12T13:49:19.035Z",
     "sourceArena": 1,
-    "sourceExam": 9
+    "sourceExam": 17,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 891,
@@ -7789,6 +8251,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7807,11 +8270,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:54.168Z",
-    "updatedAt": "2026-03-07T13:26:54.168Z",
-    "firstSeen": "2026-03-07T13:26:53.696Z",
+    "createdAt": "2026-03-12T13:48:43.231Z",
+    "updatedAt": "2026-03-12T13:48:43.231Z",
+    "firstSeen": "2026-03-12T13:48:43.429Z",
     "sourceArena": 1,
-    "sourceExam": 2
+    "sourceExam": 6,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 821,
@@ -7826,6 +8290,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7844,11 +8309,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:27.654Z",
+    "updatedAt": "2026-03-12T13:48:27.654Z",
+    "firstSeen": "2026-03-12T13:48:27.856Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 1,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 892,
@@ -7863,6 +8329,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7881,11 +8348,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.226Z",
-    "updatedAt": "2026-03-07T13:27:13.226Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:52.565Z",
+    "updatedAt": "2026-03-12T13:48:52.565Z",
+    "firstSeen": "2026-03-12T13:48:52.769Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 9,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 893,
@@ -7900,6 +8368,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7918,11 +8387,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.227Z",
-    "updatedAt": "2026-03-07T13:27:13.227Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 899,
@@ -7937,8 +8407,11 @@
     ],
     "correctAnswer": 2,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746779484852.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746779484852.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -7957,11 +8430,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.078Z",
-    "updatedAt": "2026-03-07T13:26:52.078Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 900,
@@ -7976,6 +8450,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -7994,11 +8469,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.228Z",
-    "updatedAt": "2026-03-07T13:27:13.228Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:30.753Z",
+    "updatedAt": "2026-03-12T13:48:30.753Z",
+    "firstSeen": "2026-03-12T13:48:30.954Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 901,
@@ -8013,6 +8489,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8031,11 +8508,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:06.830Z",
-    "updatedAt": "2026-03-07T13:27:06.830Z",
-    "firstSeen": "2026-03-07T13:27:06.359Z",
+    "createdAt": "2026-03-12T13:48:55.660Z",
+    "updatedAt": "2026-03-12T13:48:55.660Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 8
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 902,
@@ -8050,8 +8528,11 @@
     ],
     "correctAnswer": 3,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746780408839.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746780408839.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -8070,11 +8551,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:33.868Z",
+    "updatedAt": "2026-03-12T13:48:33.868Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 903,
@@ -8089,6 +8571,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8107,11 +8590,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:02.571Z",
-    "updatedAt": "2026-03-07T13:27:02.571Z",
-    "firstSeen": "2026-03-07T13:27:02.145Z",
+    "createdAt": "2026-03-12T13:49:15.591Z",
+    "updatedAt": "2026-03-12T13:49:15.591Z",
+    "firstSeen": "2026-03-12T13:49:15.863Z",
     "sourceArena": 1,
-    "sourceExam": 6
+    "sourceExam": 16,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 904,
@@ -8126,6 +8610,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8144,11 +8629,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:49:44.765Z",
+    "updatedAt": "2026-03-12T13:49:44.765Z",
+    "firstSeen": "2026-03-12T13:49:45.109Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 25,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 905,
@@ -8163,6 +8649,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8181,11 +8668,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.228Z",
-    "updatedAt": "2026-03-07T13:27:13.228Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:37.021Z",
+    "updatedAt": "2026-03-12T13:48:37.021Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 906,
@@ -8200,6 +8688,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8218,11 +8707,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.227Z",
-    "updatedAt": "2026-03-07T13:27:13.227Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:33.868Z",
+    "updatedAt": "2026-03-12T13:48:33.868Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 822,
@@ -8237,6 +8727,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8255,11 +8746,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:49:01.905Z",
+    "updatedAt": "2026-03-12T13:49:01.905Z",
+    "firstSeen": "2026-03-12T13:49:02.097Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 12,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 907,
@@ -8274,6 +8766,7 @@
     ],
     "correctAnswer": 1,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8292,11 +8785,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.405Z",
-    "updatedAt": "2026-03-07T13:26:58.405Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 908,
@@ -8311,8 +8805,11 @@
     ],
     "correctAnswer": 2,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746781585492.png"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746781585492.png"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -8331,11 +8828,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:56.287Z",
-    "updatedAt": "2026-03-07T13:26:56.287Z",
-    "firstSeen": "2026-03-07T13:26:55.840Z",
+    "createdAt": "2026-03-12T13:48:33.869Z",
+    "updatedAt": "2026-03-12T13:48:33.869Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 3
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 909,
@@ -8350,6 +8848,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8368,11 +8867,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:11.008Z",
-    "updatedAt": "2026-03-07T13:27:11.008Z",
-    "firstSeen": "2026-03-07T13:27:10.528Z",
+    "createdAt": "2026-03-12T13:48:33.868Z",
+    "updatedAt": "2026-03-12T13:48:33.868Z",
+    "firstSeen": "2026-03-12T13:48:34.070Z",
     "sourceArena": 1,
-    "sourceExam": 10
+    "sourceExam": 3,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 910,
@@ -8387,8 +8887,11 @@
     ],
     "correctAnswer": 4,
     "images": [
-      "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746781786955.jpg"
+      {
+        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/5m041x00067p/1746781786955.jpg"
+      }
     ],
+    "hasImages": true,
     "tags": [
       {
         "id": 1,
@@ -8407,11 +8910,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:13.226Z",
-    "updatedAt": "2026-03-07T13:27:13.226Z",
-    "firstSeen": "2026-03-07T13:27:12.751Z",
+    "createdAt": "2026-03-12T13:48:37.022Z",
+    "updatedAt": "2026-03-12T13:48:37.022Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 11
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 911,
@@ -8426,6 +8930,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8444,11 +8949,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:00.493Z",
-    "updatedAt": "2026-03-07T13:27:00.493Z",
-    "firstSeen": "2026-03-07T13:26:59.999Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.329Z",
     "sourceArena": 1,
-    "sourceExam": 5
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 912,
@@ -8463,6 +8969,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8481,11 +8988,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:55.660Z",
+    "updatedAt": "2026-03-12T13:48:55.660Z",
+    "firstSeen": "2026-03-12T13:48:55.856Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 10,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 913,
@@ -8500,6 +9008,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8518,11 +9027,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:58.404Z",
-    "updatedAt": "2026-03-07T13:26:58.404Z",
-    "firstSeen": "2026-03-07T13:26:57.950Z",
+    "createdAt": "2026-03-12T13:48:49.430Z",
+    "updatedAt": "2026-03-12T13:48:49.430Z",
+    "firstSeen": "2026-03-12T13:48:49.649Z",
     "sourceArena": 1,
-    "sourceExam": 4
+    "sourceExam": 8,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 914,
@@ -8537,6 +9047,7 @@
     ],
     "correctAnswer": 3,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8555,11 +9066,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:27:04.750Z",
-    "updatedAt": "2026-03-07T13:27:04.750Z",
-    "firstSeen": "2026-03-07T13:27:04.285Z",
+    "createdAt": "2026-03-12T13:48:40.126Z",
+    "updatedAt": "2026-03-12T13:48:40.126Z",
+    "firstSeen": "2026-03-12T13:48:40.328Z",
     "sourceArena": 1,
-    "sourceExam": 7
+    "sourceExam": 5,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 915,
@@ -8574,6 +9086,7 @@
     ],
     "correctAnswer": 2,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8592,11 +9105,12 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.076Z",
-    "updatedAt": "2026-03-07T13:26:52.076Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:37.027Z",
+    "updatedAt": "2026-03-12T13:48:37.027Z",
+    "firstSeen": "2026-03-12T13:48:37.232Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 4,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   },
   {
     "id": 916,
@@ -8611,6 +9125,7 @@
     ],
     "correctAnswer": 4,
     "images": [],
+    "hasImages": false,
     "tags": [
       {
         "id": 1,
@@ -8629,10 +9144,11 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-07T13:26:52.077Z",
-    "updatedAt": "2026-03-07T13:26:52.077Z",
-    "firstSeen": "2026-03-07T13:26:51.609Z",
+    "createdAt": "2026-03-12T13:48:30.755Z",
+    "updatedAt": "2026-03-12T13:48:30.755Z",
+    "firstSeen": "2026-03-12T13:48:30.955Z",
     "sourceArena": 1,
-    "sourceExam": 1
+    "sourceExam": 2,
+    "sourceSlug": "dau-truong-toc-do---ly-thuyet-vat-ly-12---03"
   }
 ]
