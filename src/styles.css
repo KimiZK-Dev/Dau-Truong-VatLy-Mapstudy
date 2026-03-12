@@ -774,6 +774,14 @@ button:disabled {
   .nav-controls {
     flex-direction: column;
   }
+
+  .card-content img,
+  .image-grid img,
+  .option-body img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
 }
 
 @keyframes fadeIn {
