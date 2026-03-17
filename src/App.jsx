@@ -8,7 +8,8 @@ const DATASETS = [
   { id: "khu_dau_1", label: "Khu bài làm số 1", file: "khu_dau_1.json" },
   { id: "khu_dau_2", label: "Khu bài làm số 2", file: "khu_dau_2.json" },
   { id: "khu_dau_3", label: "Khu bài làm số 3", file: "khu_dau_3.json" },
-  { id: "khu_dau_4", label: "Khu bài làm số 4", file: "khu_dau_4.json" }
+  { id: "khu_dau_4", label: "Khu bài làm số 4", file: "khu_dau_4.json" },
+  { id: "khu_dau_5", label: "Khu bài làm số 5", file: "khu_dau_5.json" }
 ];
 
 function stripHtml(html) {
