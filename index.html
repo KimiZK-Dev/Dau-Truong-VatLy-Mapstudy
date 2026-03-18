@@ -21,8 +21,25 @@
     <link rel="preconnect" href="https://cdn.jsdelivr.net" />
     <script>
       window.MathJax = {
-        tex: { inlineMath: [["\\(", "\\)"], ["$", "$"]] },
-        svg: { fontCache: "global" }
+        tex: {
+          inlineMath: [["\\(", "\\)"], ["$", "$"]],
+          displayMath: [["\\[", "\\]"], ["$$", "$$"]],
+          processEscapes: true,
+          processEnvironments: true,
+          packages: { '[+]': ['ams', 'noerrors'] }
+        },
+        svg: { fontCache: "global" },
+        options: {
+          enableMenu: false,
+          skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code", "select", "input"],
+          ignoreHtmlClass: "no-mathjax"
+        },
+        loader: { load: ['[tex]/ams', '[tex]/noerrors'] },
+        startup: {
+          pageReady: () => {
+            return window.MathJax.startup.defaultPageReady();
+          }
+        }
       };
     </script>
     <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>

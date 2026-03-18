@@ -10,7 +10,8 @@ export default function ResultPanel({
   onApplyLimit,
   elapsed,
   submitted,
-  score
+  score,
+  scoreOnTen
 }) {
   const minutes = Math.floor(elapsed / 60);
   const seconds = elapsed % 60;
@@ -18,6 +19,14 @@ export default function ResultPanel({
     2,
     "0"
   )}`;
+  const ratio = total ? score / total : 0;
+  const resultTone = ratio >= 0.8 ? "success" : ratio >= 0.5 ? "warn" : "danger";
+  const resultLabel =
+    resultTone === "success"
+      ? "Xuất sắc"
+      : resultTone === "warn"
+      ? "Cần cố gắng"
+      : "Cần ôn lại";
 
   return (
     <div className="panel">
@@ -37,9 +46,32 @@ export default function ResultPanel({
         <strong>{timeText}</strong>
       </div>
       {submitted && (
-        <div className="submit-result">
-          Đúng <strong>{score}</strong>/<strong>{total}</strong> câu ·{" "}
-          <strong>{timeText}</strong>
+        <div className="submit-result" data-state={resultTone}>
+          <div className="submit-result-head">
+            <div>
+              <div className="submit-result-title">Kết quả bài làm</div>
+              <div className="submit-result-sub">
+                {resultLabel} · {score}/{total} câu đúng
+              </div>
+            </div>
+            <div className="submit-result-score">
+              <span>Điểm</span>
+              <strong>{scoreOnTen}</strong>
+            </div>
+          </div>
+          <div className="submit-result-meta">
+            <div className="submit-result-chip">
+              Hoàn thành
+              <strong>{Math.round(ratio * 100)}%</strong>
+            </div>
+            <div className="submit-result-chip">
+              Thời gian
+              <strong>{timeText}</strong>
+            </div>
+          </div>
+          <div className="submit-result-bar" aria-hidden="true">
+            <span style={{ width: `${Math.round(ratio * 100)}%` }} />
+          </div>
         </div>
       )}
       <div className="panel-field">

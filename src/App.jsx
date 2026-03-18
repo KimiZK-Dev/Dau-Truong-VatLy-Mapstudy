@@ -3,6 +3,7 @@ import QuestionCard from "./components/QuestionCard.jsx";
 import QuestionNav from "./components/QuestionNav.jsx";
 import ProgressBar from "./components/ProgressBar.jsx";
 import ResultPanel from "./components/ResultPanel.jsx";
+import { applyDeviceClasses } from "./utils/device.js";
 
 const DATASETS = [
   { id: "khu_dau_1", label: "Khu bài làm số 1", file: "khu_dau_1.json" },
@@ -20,8 +21,97 @@ function stripHtml(html) {
     .trim();
 }
 
+function parseYesNoStatements(html) {
+  // Find all tables in the HTML
+  const tableRegex = /<table[\s\S]*?<\/table>/gi;
+  let tableMatch;
+  let ynTableHtml = null;
+
+  // Look for the table that contains <-Yes_No-> placeholders
+  while ((tableMatch = tableRegex.exec(html)) !== null) {
+    if (/&lt;-Yes_No-&gt;|<-Yes_No->/i.test(tableMatch[0])) {
+      ynTableHtml = tableMatch[0];
+      break;
+    }
+  }
+
+  if (!ynTableHtml) return [];
+
+  const rows = [];
+  const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+  let match;
+  let first = true;
+  while ((match = rowRegex.exec(ynTableHtml)) !== null) {
+    if (first) { first = false; continue; } // skip header row
+    const cells = [];
+    const cellRegex = /<td[^>]*>([\s\S]*?)<\/td>/gi;
+    let cellMatch;
+    while ((cellMatch = cellRegex.exec(match[1])) !== null) {
+      cells.push(cellMatch[1]);
+    }
+    if (cells.length > 0) {
+      rows.push(cells[0].trim());
+    }
+  }
+  return rows;
+}
+
+function countInputPlaceholders(html) {
+  const matches = html.match(/&lt;-Input-&gt;|<-Input->/g);
+  return matches ? matches.length : 1;
+}
+
 function parseQuestion(raw) {
   const content = raw.content || "";
+  const type = raw.type || "SINGLE_CHOICE";
+  const images = Array.isArray(raw.images) ? raw.images : [];
+  const safeTitle = raw.title || "";
+  const tags = Array.isArray(raw.tags) ? raw.tags : [];
+
+  if (type === "MULTIPLE_YES_NO") {
+    const correctArr = Array.isArray(raw.correctAnswer) ? raw.correctAnswer : [];
+    let statements = parseYesNoStatements(content);
+    // If no statements parsed but we have correctAnswer, generate placeholders
+    if (statements.length === 0 && correctArr.length > 0) {
+      statements = correctArr.map((_, i) => `<span style="font-size: 14px;">&nbsp;Phát biểu ${i + 1}</span>`);
+    }
+    // Ensure statements count matches correctAnswer count
+    if (statements.length > correctArr.length && correctArr.length > 0) {
+      statements = statements.slice(0, correctArr.length);
+    }
+    // Remove only the yes/no table from the stem (keep other tables like data/equipment)
+    let stemHtml = content.replace(/<table[\s\S]*?<\/table>/gi, (match) => {
+      return /&lt;-Yes_No-&gt;|<-Yes_No->/i.test(match) ? "" : match;
+    }).replace(/<p>\s*(&nbsp;|\s)*<\/p>/gi, "").trim();
+    if (!stripHtml(stemHtml)) {
+      stemHtml = safeTitle ? `<p>${safeTitle}</p>` : "";
+    }
+    // Trim correctAnswer if it has more entries than statements
+    let finalCorrect = correctArr;
+    if (correctArr.length > statements.length && statements.length > 0) {
+      finalCorrect = correctArr.slice(0, statements.length);
+    }
+    return {
+      id: raw.id, qid: raw.qid, title: safeTitle, stemHtml, options: [],
+      correctAnswer: finalCorrect,
+      tags, type, images, statements
+    };
+  }
+
+  if (type === "MULTIPLE_INPUT") {
+    let stemHtml = content.replace(/&lt;-Input-&gt;|<-Input->/g, "").trim();
+    if (!stripHtml(stemHtml)) {
+      stemHtml = safeTitle ? `<p>${safeTitle}</p>` : "";
+    }
+    const inputCount = countInputPlaceholders(content);
+    return {
+      id: raw.id, qid: raw.qid, title: safeTitle, stemHtml, options: [],
+      correctAnswer: Array.isArray(raw.correctAnswer) ? raw.correctAnswer : [],
+      tags, type, images, inputCount
+    };
+  }
+
+  // Default: SINGLE_CHOICE
   const parts = content.split(/&lt;-Single_Answers-&gt;|<-Single_Answers->/g);
   let stemHtml = (parts[0] || "").trim();
   const optionsRaw = parts.slice(1).map((item) => item.trim());
@@ -30,23 +120,15 @@ function parseQuestion(raw) {
   const options = merged.filter(
     (opt) => stripHtml(opt).length > 0 || /<img\s/i.test(opt)
   );
-  const images = Array.isArray(raw.images) ? raw.images : [];
-  const safeTitle = raw.title || "";
 
   if (!stripHtml(stemHtml)) {
     stemHtml = safeTitle ? `<p>${safeTitle}</p>` : "";
   }
 
   return {
-    id: raw.id,
-    qid: raw.qid,
-    title: safeTitle,
-    stemHtml,
-    options,
+    id: raw.id, qid: raw.qid, title: safeTitle, stemHtml, options,
     correctAnswer: Number(raw.correctAnswer) || null,
-    tags: Array.isArray(raw.tags) ? raw.tags : [],
-    type: raw.type || "SINGLE_CHOICE",
-    images
+    tags, type, images
   };
 }
 
@@ -60,6 +142,15 @@ function shuffle(array) {
 }
 
 export default function App() {
+  const savedLimit = (() => {
+    try {
+      const raw = localStorage.getItem("quiz_limit");
+      const parsed = Number(raw);
+      return Number.isFinite(parsed) && parsed > 0 ? parsed : 40;
+    } catch {
+      return 40;
+    }
+  })();
   const [questions, setQuestions] = useState([]);
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState({});
@@ -67,8 +158,8 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [dataset, setDataset] = useState(DATASETS[0]);
-  const [limit, setLimit] = useState(40);
-  const [limitInput, setLimitInput] = useState("40");
+  const [limit, setLimit] = useState(savedLimit);
+  const [limitInput, setLimitInput] = useState(String(savedLimit));
   const [totalAvailable, setTotalAvailable] = useState(0);
   const [submitted, setSubmitted] = useState(false);
   const [startTime, setStartTime] = useState(null);
@@ -84,6 +175,10 @@ export default function App() {
   });
   const [introCountdown, setIntroCountdown] = useState(10);
   const [hasStarted, setHasStarted] = useState(false);
+
+  useEffect(() => {
+    applyDeviceClasses();
+  }, []);
 
   useEffect(() => {
     let alive = true;
@@ -171,10 +266,16 @@ export default function App() {
         event.preventDefault();
         goNext();
       }
+      if (event.key.toLowerCase() === "r" && submitted) {
+        event.preventDefault();
+        resetAll();
+      }
       const key = event.key.toLowerCase();
       if (key === "1" || key === "2" || key === "3" || key === "4") {
+        if (!currentQuestion) return;
+        if (currentQuestion.type !== "SINGLE_CHOICE") return;
         const index = Number(key);
-        if (currentQuestion) selectAnswer(currentQuestion.qid, index);
+        selectAnswer(currentQuestion.qid, index);
       }
     }
 
@@ -184,28 +285,68 @@ export default function App() {
 
   useEffect(() => {
     if (!window.MathJax || !window.MathJax.typesetPromise) return;
-    const id = requestAnimationFrame(() => {
-      window.MathJax.typesetPromise().catch(() => {});
-    });
-    return () => cancelAnimationFrame(id);
+    const timer = setTimeout(() => {
+      const root = document.getElementById("root");
+      if (!root) return;
+      // Clear previously typeset elements to avoid double-processing
+      if (window.MathJax.typesetClear) {
+        window.MathJax.typesetClear([root]);
+      }
+      window.MathJax.typesetPromise([root]).catch(() => {});
+    }, 50);
+    return () => clearTimeout(timer);
   }, [current, showResults, questions, hasStarted]);
 
   const total = questions.length;
-  const answeredCount = useMemo(
-    () => Object.keys(answers).length,
-    [answers]
-  );
+  const answeredCount = useMemo(() => {
+    return Object.values(answers).filter((val) => {
+      if (Array.isArray(val)) return val.some((v) => v !== null && v !== undefined && v !== "");
+      return val !== null && val !== undefined;
+    }).length;
+  }, [answers]);
 
   const score = useMemo(() => {
     return questions.reduce((sum, q) => {
       const picked = answers[q.qid];
-      if (picked && picked === q.correctAnswer) return sum + 1;
+      if (!picked) return sum;
+
+      if (q.type === "MULTIPLE_YES_NO") {
+        if (!Array.isArray(picked) || !Array.isArray(q.correctAnswer)) return sum;
+        if (picked.length !== q.correctAnswer.length) return sum;
+        const totalParts = q.correctAnswer.length;
+        if (!totalParts) return sum;
+        const correctParts = q.correctAnswer.reduce(
+          (count, c, i) => (picked[i] === c ? count + 1 : count),
+          0
+        );
+        return sum + correctParts / totalParts;
+      }
+
+      if (q.type === "MULTIPLE_INPUT") {
+        if (!Array.isArray(picked) || !Array.isArray(q.correctAnswer)) return sum;
+        if (picked.length !== q.correctAnswer.length) return sum;
+        const allCorrect = q.correctAnswer.every((c, i) => {
+          const userVal = (picked[i] || "").trim();
+          const correctVal = (c || "").trim();
+          return userVal === correctVal;
+        });
+        return allCorrect ? sum + 1 : sum;
+      }
+
+      // SINGLE_CHOICE
+      if (picked === q.correctAnswer) return sum + 1;
       return sum;
     }, 0);
   }, [answers, questions]);
 
-  function selectAnswer(qid, index) {
-    setAnswers((prev) => ({ ...prev, [qid]: index }));
+  const scoreOnTen = useMemo(() => {
+    if (!total) return 0;
+    return Math.round((score / total) * 100) / 10;
+  }, [score, total]);
+
+  function selectAnswer(qid, value) {
+    if (!hasStarted || submitted) return;
+    setAnswers((prev) => ({ ...prev, [qid]: value }));
   }
 
   function goPrev() {
@@ -237,9 +378,13 @@ export default function App() {
       return;
     }
     setLimit(parsed);
+    try {
+      localStorage.setItem("quiz_limit", String(parsed));
+    } catch {}
   }
 
   function submitQuiz() {
+    if (submitted) return;
     setShowResults(true);
     setSubmitted(true);
   }
@@ -284,7 +429,7 @@ export default function App() {
   }
 
   return (
-    <div className="app">
+    <div className={`app ${submitted ? "is-submitted" : ""}`}>
       <header className="topbar">
         <div className="brand">
           <div className="brand-mark">
@@ -318,8 +463,12 @@ export default function App() {
             {String(Math.floor(elapsed / 60)).padStart(2, "0")}:
             {String(elapsed % 60).padStart(2, "0")}
           </div>
-          <button className="primary" onClick={submitQuiz}>
-            Nộp bài
+          <button
+            className="primary"
+            onClick={submitted ? resetAll : submitQuiz}
+            disabled={!hasStarted && !submitted}
+          >
+            {submitted ? "Làm bài mới" : "Nộp bài"}
           </button>
         </div>
       </header>
@@ -332,7 +481,23 @@ export default function App() {
             <span className="swipe-count">
               Câu {current + 1}/{total}
             </span>
-            <span className="swipe-text">Quẹt trái/phải để chuyển câu</span>
+            <span className="swipe-text swipe-only">Quẹt trái/phải để chuyển câu</span>
+            <span className="swipe-text keyboard-only">
+              Phím
+              <span className="shortcut">←</span>
+              <span className="shortcut">→</span>
+              để chuyển · Trắc nghiệm
+              <span className="shortcut">1</span>
+              <span className="shortcut">2</span>
+              <span className="shortcut">3</span>
+              <span className="shortcut">4</span>
+              · Đúng/Sai
+              <span className="shortcut">↑</span>
+              <span className="shortcut">↓</span>
+              +
+              <span className="shortcut">1</span>
+              <span className="shortcut">2</span>
+            </span>
           </div>
           {currentQuestion && hasStarted && (
             <QuestionCard
@@ -340,7 +505,7 @@ export default function App() {
               selected={answers[currentQuestion.qid]}
               onSelect={selectAnswer}
               showResults={showResults}
-              disabled={!hasStarted}
+              disabled={!hasStarted || submitted}
             />
           )}
           {!hasStarted && (
@@ -370,6 +535,7 @@ export default function App() {
             elapsed={elapsed}
             submitted={submitted}
             score={score}
+            scoreOnTen={scoreOnTen}
           />
           <QuestionNav
             questions={questions}
@@ -407,11 +573,18 @@ export default function App() {
                   <span className="shortcut">→</span>
                 </div>
                 <div className="shortcut-row">
-                  Chọn đáp án
+                  Trắc nghiệm
                   <span className="shortcut">1</span>
                   <span className="shortcut">2</span>
                   <span className="shortcut">3</span>
                   <span className="shortcut">4</span>
+                </div>
+                <div className="shortcut-row">
+                  Đúng/Sai
+                  <span className="shortcut">↑</span>
+                  <span className="shortcut">↓</span>
+                  <span className="shortcut">1</span>
+                  <span className="shortcut">2</span>
                 </div>
               </li>
               <li>Nộp bài để xem số câu đúng và thời gian.</li>
