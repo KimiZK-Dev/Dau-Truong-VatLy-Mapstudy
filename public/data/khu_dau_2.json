@@ -31,9 +31,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -70,9 +70,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.806Z",
-    "updatedAt": "2026-03-16T15:05:23.806Z",
-    "firstSeen": "2026-03-16T15:05:22.803Z",
+    "createdAt": "2026-04-10T08:13:33.769Z",
+    "updatedAt": "2026-04-10T08:13:33.769Z",
+    "firstSeen": "2026-04-10T08:13:32.709Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -113,48 +113,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
-    "sourceArena": 2,
-    "sourceExam": 1,
-    "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
-  },
-  {
-    "id": 224,
-    "qid": "VL699LT-11",
-    "title": "Công thức liên hệ giữa động năng trung bình của cá",
-    "content": "<p>Công thức liên hệ giữa động năng trung bình của các phân tử chất khí vào nhiệt độ là</p>\n<p>&lt;-Single_Answers-&gt; <span class=\"math-tex\">\\(\\overline{E_d} = kT.\\)</span></p>\n<p>&lt;-Single_Answers-&gt; <span class=\"math-tex\">\\( \\overline{E_d} = \\dfrac{1}{2}RT. \\)</span></p>\n<p>&lt;-Single_Answers-&gt; <span class=\"math-tex\">\\( \\overline{E_d} = \\dfrac{1}{2}m\\overline{v^2}. \\)</span></p>\n<p>&lt;-Single_Answers-&gt; <span class=\"math-tex\">\\( \\overline{E_d} = \\dfrac{3}{2}kT. \\)</span></p>",
-    "options": [
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>"
-    ],
-    "correctAnswer": 4,
-    "images": [],
-    "hasImages": false,
-    "tags": [
-      {
-        "id": 1,
-        "name": "Nhận biết",
-        "code": "1"
-      },
-      {
-        "id": 5,
-        "name": "Lý",
-        "code": "ly"
-      },
-      {
-        "id": 14,
-        "name": "Lý thuyết",
-        "code": "ly-thuyet"
-      }
-    ],
-    "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -191,9 +152,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -234,9 +195,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -273,9 +234,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -312,9 +273,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -351,9 +312,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -390,9 +351,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -429,9 +390,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -472,52 +433,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
-    "sourceArena": 2,
-    "sourceExam": 1,
-    "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
-  },
-  {
-    "id": 104,
-    "qid": "VL699LT-2",
-    "title": "Từ trường mạnh có thể ảnh hưởng đến sức khỏe của c",
-    "content": "<p>Từ trường mạnh có thể ảnh hưởng đến sức khỏe của con người như gây chóng mặt, buồn nôn. Vì vậy, ở nơi có từ trường mạnh thường có biển cảnh báo nào dưới đây?</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://mapstudy.sgp1.digitaloceanspaces.com/test/4m7lxc102bqt/1744615293697.png\"></p>\n<p>&lt;-Single_Answers-&gt; Hình 1.</p>\n<p>&lt;-Single_Answers-&gt; Hình 2.</p>\n<p>&lt;-Single_Answers-&gt; Hình 3.</p>\n<p>&lt;-Single_Answers-&gt; Hình 4.</p>",
-    "options": [
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>"
-    ],
-    "correctAnswer": 4,
-    "images": [
-      {
-        "originalUrl": "https://mapstudy.sgp1.digitaloceanspaces.com/test/4m7lxc102bqt/1744615293697.png"
-      }
-    ],
-    "hasImages": true,
-    "tags": [
-      {
-        "id": 1,
-        "name": "Nhận biết",
-        "code": "1"
-      },
-      {
-        "id": 5,
-        "name": "Lý",
-        "code": "ly"
-      },
-      {
-        "id": 14,
-        "name": "Lý thuyết",
-        "code": "ly-thuyet"
-      }
-    ],
-    "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.806Z",
-    "updatedAt": "2026-03-16T15:05:23.806Z",
-    "firstSeen": "2026-03-16T15:05:22.803Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -554,9 +472,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -593,9 +511,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -632,48 +550,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
-    "sourceArena": 2,
-    "sourceExam": 1,
-    "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
-  },
-  {
-    "id": 138,
-    "qid": "VL699LT-23",
-    "title": "Đâu là nhóm các thông số trạng thái của một lượng ",
-    "content": "<p>Đâu là nhóm các thông số trạng thái của một lượng khí xác định?</p>\n<p>&lt;-Single_Answers-&gt; Khối lượng, áp suất, thể tích.</p>\n<p>&lt;-Single_Answers-&gt; Áp suất, nhiệt độ, khối lượng.</p>\n<p>&lt;-Single_Answers-&gt; Áp suất, nhiệt độ, thể tích.</p>\n<p>&lt;-Single_Answers-&gt; Khối lượng, nhiệt độ, thể tích.</p>",
-    "options": [
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>",
-      "<p>&nbsp;&nbsp;</p>"
-    ],
-    "correctAnswer": 3,
-    "images": [],
-    "hasImages": false,
-    "tags": [
-      {
-        "id": 1,
-        "name": "Nhận biết",
-        "code": "1"
-      },
-      {
-        "id": 5,
-        "name": "Lý",
-        "code": "ly"
-      },
-      {
-        "id": 14,
-        "name": "Lý thuyết",
-        "code": "ly-thuyet"
-      }
-    ],
-    "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -714,9 +593,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -753,9 +632,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -792,9 +671,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.808Z",
-    "updatedAt": "2026-03-16T15:05:23.808Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -844,9 +723,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.809Z",
-    "updatedAt": "2026-03-16T15:05:23.809Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -883,9 +762,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.809Z",
-    "updatedAt": "2026-03-16T15:05:23.809Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.771Z",
+    "updatedAt": "2026-04-10T08:13:33.771Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -922,9 +801,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.769Z",
+    "updatedAt": "2026-04-10T08:13:33.769Z",
+    "firstSeen": "2026-04-10T08:13:32.709Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -961,9 +840,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.809Z",
-    "updatedAt": "2026-03-16T15:05:23.809Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.771Z",
+    "updatedAt": "2026-04-10T08:13:33.771Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -1004,9 +883,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.769Z",
+    "updatedAt": "2026-04-10T08:13:33.769Z",
+    "firstSeen": "2026-04-10T08:13:32.709Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -1043,9 +922,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.769Z",
+    "updatedAt": "2026-04-10T08:13:33.769Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -1086,9 +965,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -1125,9 +1004,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -1168,9 +1047,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
@@ -1211,9 +1090,9 @@
       }
     ],
     "type": "SINGLE_CHOICE",
-    "createdAt": "2026-03-16T15:05:23.807Z",
-    "updatedAt": "2026-03-16T15:05:23.807Z",
-    "firstSeen": "2026-03-16T15:05:22.804Z",
+    "createdAt": "2026-04-10T08:13:33.770Z",
+    "updatedAt": "2026-04-10T08:13:33.770Z",
+    "firstSeen": "2026-04-10T08:13:32.710Z",
     "sourceArena": 2,
     "sourceExam": 1,
     "sourceSlug": "chinh-phuc-ly-thuyet-toan-dien---vong-1"
